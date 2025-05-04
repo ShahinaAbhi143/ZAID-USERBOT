@@ -8,12 +8,12 @@ API_HASH = "4e984ea35f854762dcde906dce426c2d" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(1234567890)
-MONGO_URL = "MONGO_URL"
-BOT_TOKEN = "BOT_TOKEN"
+MONGO_URL = "mongodb+srv://abhi:abhi@cluster0.xxc9r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+BOT_TOKEN = "7547401614:AAG1kIQMONNhKpGmy8r4HGeMZR_CGMHT4lA"
 ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
-LOG_GROUP = None
+LOG_GROUP = -1002247930105
 GIT_TOKEN = None #personal access token
 REPO_URL = "https://github.com/ITZ-ZAID/ZAID-USERBOT"
 BRANCH = "master" #don't change
